@@ -1,4 +1,4 @@
-# Claude Code + Codex + Gemini CLI DevContainer
+# Mosgarage + Claude Code + Codex + Antigravity + Gemini CLI DevContainer
 
 A production-ready VS Code devcontainer that combines Claude Code, OpenAI Codex CLI, and Google Gemini CLI in a secure, sandboxed environment as per https://claude-devcontainers.centminmod.com.
 
